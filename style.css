@@ -1,0 +1,35 @@
+li{
+    display: inline-block; 
+    padding: 10px;
+}
+.items{
+    text-decoration: none;
+    background-color: #FFC72C;
+    padding: 5px;
+    border-radius: 10%;
+}
+.flex-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.flex-item1{
+    width: 10%;
+}
+.flex-item2{
+    width: 80%;
+}
+.flex-container2{
+    width: 100%;
+    display: flex;
+}
+.flex-item{
+    width: 24%;
+}
+button{
+    text-decoration: none;
+    background-color: #FFC72C;
+    padding: 5px;
+    border-radius: 10%;
+    border: #FFC72C;
+}
